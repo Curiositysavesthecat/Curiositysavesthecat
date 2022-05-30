@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sagar Mathpal
-- 👀 I’m interested in Data Science but more on its cool applications
-- 🌱 I’m currently learning Data..(guess guess)
+- 👀 I’m interested in Data Science but more on its cool applications .
+- 🌱 I’m currently learning Data Science and Backend WebD.
 
 <!---
 Curiositysavesthecat/Curiositysavesthecat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
