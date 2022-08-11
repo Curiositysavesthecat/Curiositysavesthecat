@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sagar Mathpal
-- 👀 I’m interested in Data Science but more on its cool applications .
-- 🌱 I’m currently learning Data Science and Backend WebD.
+- 👀 I’m interested in Deep Learning and on its cool applications .
+- 🌱 I posses  Data Science and Backend WebD skills in Django framework .
+- I am open for collaborations on Machine Learning projects and I entertain pull requests on my projects which can help make them better.
 
 <!---
 Curiositysavesthecat/Curiositysavesthecat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
