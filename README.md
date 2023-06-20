@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sagar Mathpal
 - 👀 I’m interested in Deep Learning and on its cool applications .
-- 🌱 I posses  Data Science and Backend WebD skills in Django framework .
+- 🌱 I am skilled in Data Science and Django framework .
 - I am open for collaborations on Machine Learning projects and I entertain pull requests on my projects which can help make them better.
 
 <!---
